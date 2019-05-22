@@ -1,6 +1,6 @@
 <template lang="pug">
 #app
-  img(src='./assets/logo.png')
+  img(src='https://leanalvarez.github.io/espotifaiV1/dist/logo.png')
   h1 Espotifai
 
   select(v-model="selctedCountry")
